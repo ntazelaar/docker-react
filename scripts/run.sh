@@ -1,0 +1,1 @@
+docker run -it -p 3000:3000 -v /home/node/app/node_modules -v ~/docker/frontend:/home/node/app nicktazelaar84/frontend

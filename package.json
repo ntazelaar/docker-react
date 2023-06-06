@@ -12,6 +12,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "docker:build": "./scripts/build.sh",
+    "docker:run": "./scripts/run.sh",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

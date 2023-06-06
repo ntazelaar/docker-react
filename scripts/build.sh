@@ -1,0 +1,1 @@
+docker build -f Dockerfile.dev -t nicktazelaar84/frontend .
